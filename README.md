@@ -1,6 +1,6 @@
 # Traduction française de l'admin de processwire 3.0.226
 
-## also complete for the 3.0.227 release
+## vaut aussi pour la version dev/master 3.0.227
 
 Traduction complète de l'admin de ProcessWire
 
