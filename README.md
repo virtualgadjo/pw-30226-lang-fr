@@ -1,5 +1,7 @@
 # Traduction française de l'admin de processwire 3.0.226
 
+## also complete for the 3.0.227 release
+
 Traduction complète de l'admin de ProcessWire
 
 mise à jour à partir de la version que j'avais pondue pour la version 3.0.210 (https://github.com/virtualgadjo/pw30210-lang-fr) elle-même basée sur la version pour pw 3.0.148 faite par les traducteurs cités plus bas puis la 3.0.184 made in ma pomme
