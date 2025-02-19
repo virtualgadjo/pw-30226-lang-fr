@@ -1,8 +1,6 @@
-# Traduction française de l'admin de processwire 3.0.246
+# Traduction française de l'admin de processwire 3.0.226
 
 Traduction complète de l'admin de ProcessWire
-
-très peu de changements par rapport à la version 3.0.244
 
 mise à jour à partir de la version que j'avais pondue pour la version 3.0.229 mise à jour au fil des versions et finalisée pour cette dernière verion master
 
