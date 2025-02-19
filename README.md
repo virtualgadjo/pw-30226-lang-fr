@@ -1,16 +1,20 @@
-# Traduction française de l'admin de processwire 3.0.226
-
-## vaut aussi pour les versions dev/master 3.0.227 et 3.0.228
+# Traduction française de l'admin de processwire 3.0.246
 
 Traduction complète de l'admin de ProcessWire
 
-mise à jour à partir de la version que j'avais pondue pour la version 3.0.210 (https://github.com/virtualgadjo/pw30210-lang-fr) elle-même basée sur la version pour pw 3.0.148 faite par les traducteurs cités plus bas puis la 3.0.184 made in ma pomme
+très peu de changements par rapport à la version 3.0.244
 
-un merci tout particulier à [Vincent Maillard](https://github.com/v-maillard/pw-lang-fr) qui s'equiquine à utiliser mes fichiers en attendant que j'apprenne à me servir mieux de github pour en intégrer les modifs dans la trad dispo en download sur le site de PW
+mise à jour à partir de la version que j'avais pondue pour la version 3.0.229 mise à jour au fil des versions et finalisée pour cette dernière verion master
+
+comme déjà souvent dit, je suis parti à la base sur la version pour pw 3.0.148 faite par les traducteurs cités plus bas puis les diverses versions depuis la 3.0.184 made in ma pomme
 
 le readme est toujours en français parce que c'est destiné à servir à passer l'admin de PW en... français, nooon, sans blague !
 
-pour l'installer, du gâteau, "choose file" dans l'admin de la langue côté core, télécharger le zip, processwire, dans sa grande bonté, décompresse l'archive et installe les fichiers, "save", job done, plus simple ce serait insupportable... :smiley:
+pour l'installer, du gâteau, "choose file" dans l'admin de la langue côté core,
+
+![choosefile_image](https://www.waitandcie.com/down/chose_file_to_translate.png)
+
+télécharger le zip, processwire, dans sa grande bonté, décompresse l'archive et installe les fichiers, "save", job done, plus simple ce serait insupportable... :smiley:
 
 ---
 les traducteurs de la version originale destinée à pw 3.0.148 sont
