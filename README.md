@@ -13,6 +13,7 @@ le readme est toujours en français parce que c'est destiné à servir à passer
 pour l'installer, du gâteau, "choose file" dans l'admin de la langue côté core, ici
 
 ![choosefile_image](https://www.waitandcie.com/down/chose_file_to_translate.png)
+
 télécharger le zip, processwire, dans sa grande bonté, décompresse l'archive et installe les fichiers, "save", job done, plus simple ce serait insupportable... :smiley:
 
 ---
